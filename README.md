@@ -278,7 +278,7 @@ The Consumer segment is the largest contributor to sales and should remain a maj
 
 
 ```markdown
-![Retail Sales Dashboard](Retail-Sales-Analysis-Excel/DASHBOARD.png)
+![Retail Sales Dashboard](DASHBOARD.png)
 ```
 
 ---

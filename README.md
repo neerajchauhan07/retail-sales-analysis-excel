@@ -277,9 +277,7 @@ The Consumer segment is the largest contributor to sales and should remain a maj
 ## 📷 Dashboard Preview
 
 
-```markdown
 ![Retail Sales Dashboard](DASHBOARD.png)
-```
 
 ---
 
